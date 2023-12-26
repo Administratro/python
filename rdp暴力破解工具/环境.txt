@@ -1,0 +1,5 @@
+python3.8.10
+impacket           0.10.0
+
+
+python -m pip install impacket
