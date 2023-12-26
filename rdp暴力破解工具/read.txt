@@ -1,0 +1,4 @@
+用法：python <脚本名> <ip地址> <端口号> <帐号名> <密码文件字典> [域名]
+        注意:如果没有域，就不填
+        例子：
+        python brueforce_rdp.py 192.168.1.2 3389 administrator password.txt feel.com
